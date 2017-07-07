@@ -6,3 +6,5 @@
 
 - 2017-06-26: debugging/improvements (reconstructed notes)
 
+- 2017-07-03: debugging/improvements (reconstructed notes)
+
