@@ -196,3 +196,5 @@
 
 - 2017-07-03: debugging/improvements (reconstructed notes)
 
+- 2017-07-10: debugging/improvements (reconstructed notes)
+
