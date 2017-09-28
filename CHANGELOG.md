@@ -30,3 +30,5 @@
 
 - 2017-09-18: debugging/improvements (reconstructed notes)
 
+- 2017-09-25: debugging/improvements (reconstructed notes)
+
