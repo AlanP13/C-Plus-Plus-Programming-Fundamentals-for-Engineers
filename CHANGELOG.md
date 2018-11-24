@@ -150,3 +150,5 @@
 
 - 2018-11-12: debugging/improvements (reconstructed notes)
 
+- 2018-11-19: debugging/improvements (reconstructed notes)
+
